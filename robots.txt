@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://aliaminagha15.github.io/fit-vr//wp-sitemap.xml
+Sitemap: http://aliaminagha15.github.io/fit-vr//wp-sitemap.xml
